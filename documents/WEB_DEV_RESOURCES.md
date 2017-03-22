@@ -1,3 +1,6 @@
+###[HTML & CSS is Hard](https://internetingishard.com/html-and-css/)
+This 14-chapter tutorial was compiled for complete beginners and was named the friendliest first encounter in Web development by the authors. It includes many beautiful, easy-to-understand illustrations to guide you through different topics.
+
 ###[Code School’s Beginners Guide to Web Development](https://www.codeschool.com/beginners-guide-to-web-development?utm_medium=email&utm_campaign=announcement_beginners_guide&utm_source=mailchimp&utm_content=null)
 This is a comprehensive guide for beginners with short readings and useful links related to Web programming. They split the guide into three sections - Getting started, Modern Development and Supplementary. Below is the list of readings under each section - 
 
@@ -27,3 +30,7 @@ These templates help users build their websites without requiring any prior prog
 * [eHost.com](https://www.ehost.com/) - Drag and drop site builder built on Website Builder. Pricing starts from $2.75/month (50% discount as of 14 Oct. 2016). 
 * [Weebly](https://www.weebly.com/) - Basic plan starts from $0 that comes with handful of templates, but can switch to paid plans to get personal domain name and advanced features.
 * [WordPress](https://wordpress.com/) - Pricing starts from $0 to start a basic website with WordPress.com subdomain. 
+
+###[Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+Written by Cody Lindley, the handbook is a source of learning materials and development tools for front-end development. Geared towards potential and currently practicing front-end developers, it discusses how to learn about this area and what tools to use when practicing it in 2017. It is purposed to be used in classroom for instruction or by managers as well.
+
