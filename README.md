@@ -8,3 +8,7 @@ The topics include project management using GitHub, which is a useful tool for n
 * [Resources on Web Development](documents/WEB_DEV_RESOURCES.md) 
 * [Resources on Data Science](documents/DATA_SCI_RESOURCES.md)
 
+### Contributors 
+Kevin Beswick
+Bret Davidson
+Jason Casden
