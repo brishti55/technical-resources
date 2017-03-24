@@ -14,6 +14,7 @@ DataCamp provides over 120 hours of data science training courses on R and Pytho
 Subscription fee is $29/month to get access to all courses. 
 
 [Dataquest](https://www.dataquest.io/home)
+
 Dataquest combines R, Python, Jupyter Notebook and Apache Spark (open-source cluster computing network) to create an interactive environment to learn data science by working with real data and building projects in your browser.
 They also designed the content by creating three different paths - Data Analyst, Data Scientist and Data Engineer. Besides data focused topics covered by DataCamp, they have courses on Linear Algebra, APIs and Web Scraping, and include Capstone projects, Kaggle competitions and large datasets to work in Python.
 They offer 22 free courses. The Basic package is $29.00/mo ($275/year) that gives access to the entire Data Analyst path. The Premium package is $49.00/mo ($399/year) for getting access to all three paths.
