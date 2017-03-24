@@ -10,7 +10,5 @@ The topics include project management using GitHub, which is a useful tool for n
 
 ### Contributors 
 Kevin Beswick
-
 Bret Davidson
-
 Jason Casden
