@@ -19,4 +19,6 @@ Dataquest combines R, Python, Jupyter Notebook and Apache Spark (open-source clu
 
 They also designed the content by creating three different paths - Data Analyst, Data Scientist and Data Engineer. Besides data focused topics covered by DataCamp, they have courses on Linear Algebra, APIs and Web Scraping, and include Capstone projects, Kaggle competitions and large datasets to work in Python.
 
+They offer 22 free courses. The Basic package is $29.00/mo ($275/year) that gives access to the entire Data Analyst path. The Premium package is $49.00/mo ($399/year) for getting access to all three paths.
+
 [Data Elixir](https://dataelixir.com/) - Weekly newsletter for curated data science news and resources from around the Web. 
