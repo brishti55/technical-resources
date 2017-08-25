@@ -1,4 +1,4 @@
-**GitHub**
+### GitHub
 
 [GitHub](https://github.com/) is a Distributed Version Control System [(DVCS)](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) that helps to manage individual and collaborative projects online by keeping track of every single changes made in the files of a repository. It makes it easier to sync the local changes with online repository, which can be useful for referring to the previous versions, especially when multiple people are working on the same project. It is free to use for any public projects and $7/month to work on unlimited private repositories. NCSU also hosts an institutional version of GitHub, which is free to use for NCSU faculty, staff and students, and provides unlimited private repositories.
 
