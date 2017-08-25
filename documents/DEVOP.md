@@ -18,8 +18,11 @@ Get started with Vagrant! - <https://www.vagrantup.com/intro/getting-started/ind
 Ansible is an IT automation tool. It can configure systems, deploy software, and orchestrate more advanced IT tasks such as continuous deployments or zero downtime rolling updates. The website comes with many useful resources to get started -
 
 [How Ansible Works](https://www.ansible.com/how-ansible-works)
+
 [Ansible Documentation](http://docs.ansible.com/ansible/latest/index.html)
+
 [Ansible Videos](https://www.ansible.com/videos)
+
 [Ansible Webinars and Training](https://www.ansible.com/webinars-training) 
 
 

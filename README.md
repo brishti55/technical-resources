@@ -6,6 +6,7 @@ The topics include project management using GitHub, which is a useful tool for n
 * [Project management using Distributed Version Control System (DVCS) - GitHub](documents/GIT_RESOURCES.md)
 * [Programming Languages and Learning Resources](documents/CODING_RESOURCES.md)
 * [Resources on Web Development](documents/WEB_DEV_RESOURCES.md) 
+* [Server Management Tools/ DevOps](documents/DEVOP.md)
 * [Resources on Data Science](documents/DATA_SCI_RESOURCES.md)
 
 ### Contributors 
