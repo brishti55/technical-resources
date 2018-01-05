@@ -10,6 +10,8 @@ The topics include project management using GitHub, which is a useful tool for n
 * [Resources on Data Science](documents/DATA_SCI_RESOURCES.md)
 
 ### Contributors 
+Nushrat Khan
+
 Kevin Beswick
 
 Bret Davidson
